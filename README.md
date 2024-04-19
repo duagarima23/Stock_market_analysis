@@ -14,3 +14,4 @@ Here, we have used the LSTM model, which is useful in learning order dependence 
 
 
 ![Screenshot (102)](https://github.com/duagarima23/Stock_market_analysis/assets/138300030/84176c85-89a0-44c2-b98b-1c39d369d4ea)
+![Screenshot (99)](https://github.com/duagarima23/Stock_market_analysis/assets/138300030/a89b85bb-8942-4c70-b444-d71672d5096b)
